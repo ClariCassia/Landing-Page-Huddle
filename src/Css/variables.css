@@ -1,0 +1,7 @@
+:root{
+    --primary-soft-color: hsl(300, 69%, 71%);
+    --primary-medium-color:hsl(257, 40%, 49%);
+    --primary-light-color: rgb(255, 255, 255);
+    --neutral-color: rgba(255, 255, 255, 0.637);
+    --transition-effect: 0.3s ease-in-out;
+}

@@ -1,0 +1,112 @@
+html {
+    font-size: 62, 5%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3rem;
+    background-color: var(--primary-medium-color);
+    background-image: url(../images/bg-desktop.svg);
+    background-size: cover;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 1440px;
+    height: 100vh;
+    padding: 4rem;
+    margin: 0 auto;
+}
+
+.main-content {
+    display: flex;
+    margin-top: 3rem;
+    gap: 2rem;
+}
+
+.info {
+    color: var(--neutral-color);
+}
+
+.info .title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 2.8rem;
+    color: var(--primary-light-color);
+    margin: 2rem 0;
+}
+
+.info .btn-register {
+    background-color: var(--primary-light-color);
+    border-radius: 5rem;
+    width: 13rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    text-align: center;
+    box-shadow: 3px 2px 10px 5px rgba(0, 0, 0, 0.29);
+    transition: var(--transition-effect);
+    color: var(--primary-light-color);
+}
+
+.info .btn-register a {
+    color: var(--primary-medium-color)
+}
+
+.info .btn-register:active {
+    background-color: var(--primary-soft-color);
+    color: var(--primary-light-color);
+    cursor: pointer;
+}
+
+.info .btn-register:active a {
+    color: var(--primary-light-color);
+}
+
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;  
+    justify-content: space-around;  
+}
+
+.social-networks a i {
+    font-size: 1.4rem;
+    color: var(--primary-light-color);
+    position: relative;
+    transition: var(--transition-effect);
+}
+
+.social-networks a i::after {
+    content: '';
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    border: 1px solid var(--primary-light-color);
+    border-radius: 50%;
+    left: -16px;
+    bottom: -11px;
+}
+
+.social-networks a:nth-child(2) {
+    margin: 4rem;
+}
+.social-networks a i:hover::after {
+    border-color: var(--primary-soft-color);
+}
+
+.social-networks a i:hover,
+.attribution a:hover {
+    color: var(--primary-soft-color);
+}
+
+.attribution {    
+    text-align: center;
+    color: var(--neutral-color);
+}
+
+.attribution a {
+    color: var(--neutral-color);
+    transition: var(--transition-effect);
+}
