@@ -18,15 +18,17 @@
  # Layout web
 
 <br>
-<img src="gifs.readme/desktop-mobile.gif" alt= "gif tela mobile">
 
+<img src="gifs.readme/desktop-preview.gif" alt= "gif tela desktop">
 <br>
+
 <br>
 
 # Layout mobile
 
 <br>
-<img src="gifs.readme/desktop-preview.gif" alt= "gif tela desktop">
+
+<img src="gifs.readme/desktop-mobile.gif" alt= "gif tela mobile">
 
 <br>
 
