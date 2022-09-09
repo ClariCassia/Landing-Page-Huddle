@@ -18,13 +18,13 @@
 
 <br>
 
-<img src="gifs.readme/desktop-preview.gif" alt= "gif tela desktop">
+  <img src="./src/gifs.readme/desktop-preview.gif" alt= "gif tela desktop">
 
 ## Layout mobile
 
 <br>
 
-<img src="gifs.readme/desktop-mobile.gif" alt= "gif tela mobile">
+  <img src="./src/gifs.readme/desktop-mobile.gif" alt= "gif tela mobile">
 
 ## Tecnologias utilizadas
 
