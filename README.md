@@ -15,20 +15,20 @@
 
  <br>
 
+ # Layout web
+
+<br>
+<img src="./desktop-preview.gif" alt= "gif tela desktop">
+
+<br>
+<br>
+
 # Layout mobile
 
 <br>
 <img src="./desktop-mobile.gif" alt= "gif tela desktop">
 
 <br>
-
-# Layout web
-
-<br>
-<img src="./desktop-preview.gif" alt= "gif tela desktop">
-
-<br>
-
 
 # Tecnologias utilizadas
 
