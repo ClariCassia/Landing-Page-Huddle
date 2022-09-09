@@ -5,8 +5,7 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3rem;
-    background-color: var(--primary-medium-color);
-    background-image: url(../images/bg-desktop.svg);
+    background: var(--primary-medium-color) url(../images/bg-desktop.svg) no-repeat;   
     background-size: cover;
 }
 

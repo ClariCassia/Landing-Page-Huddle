@@ -2,7 +2,7 @@
 
 ## Esse desafio do Frontend Mentor, faz parte do curso Dev Quest, realizado pelo Dev-em-Dobro.
 
-## Sumário
+# Sumário
 
 Visão Geral do projeto
 Conhecimentos utilizados
