@@ -7,7 +7,7 @@
   - [Layout web](#layout-web)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
   - [O que eu aprendi](#o-que-eu-aprendi)
-  - [Live Site](#live-site)
+  - [Acesso a página](#acesso-a-página)
 
 ## Sobre o projeto
 
@@ -35,6 +35,9 @@
 Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquare e efeitos como hover (ao passar o mouse) e active (ao clicar). Aprendi a utilizar imagem de fundo de forma que a mesma fique responsiva e troque de imagem na tela mobile.
 
 
-## Live Site
+## Acesso a página
+
+Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Landing-Page-Huddle/)
+
 
 
