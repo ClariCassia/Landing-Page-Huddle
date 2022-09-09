@@ -35,12 +35,11 @@
 - HTML 
 - CSS 
 <br>
-<br>
+
 
 # O que eu aprendi
-- Variáveis em CSS
-- Flexbox
-- Reponsividade
+Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquare e efeitos como hover (ao passar o mouse) e active (ao clicar). Aprendi a utilizar imagem de fundo de forma que a mesma fique responsiva e troque de imagem na tela mobile.
+
 <br>
 <br>
 
