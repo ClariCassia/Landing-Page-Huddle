@@ -1,13 +1,9 @@
 @media (max-width:1280px) {
    main {
-      padding: 2rem;
+      padding: 1.2rem;
    }
 
-   .main-content {
-      flex-direction: column;
-   }
-
-   .info {
+    .info {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -24,16 +20,19 @@
       margin: 2rem 0 4rem;
    }
 
-   .footer {
+ 
+   .attribution {
+      margin: 2rem 0;
+   }
+}
+
+@media (max-width:1200px) {
+     .main-content {
       flex-direction: column;
    }
 
-   .social-networks {
-      text-align: center;
-   }
-
-   .attribution {
-      margin: 2rem 0;
+     .footer {
+      flex-direction: column;
    }
 }
 
