@@ -69,23 +69,25 @@ main {
     align-items: center;  
     justify-content: space-around;  
 }
+.social-networks{
+    display: flex;
+    align-items: center;
+}
+
+.social-networks a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
 
 .social-networks a i {
     font-size: 1.4rem;
     color: var(--primary-light-color);
-    position: relative;
     transition: var(--transition-effect);
-}
-
-.social-networks a i::after {
-    content: '';
-    position: absolute;
-    width: 3rem;
-    height: 3rem;
-    border: 1px solid var(--primary-light-color);
-    border-radius: 50%;
-    left: -16px;
-    bottom: -11px;
 }
 
 .social-networks a:nth-child(2) {
