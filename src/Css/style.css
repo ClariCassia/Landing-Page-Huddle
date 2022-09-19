@@ -78,7 +78,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid white;
+    border: 1px solid var(--primary-light-color);
     width: 50px;
     height: 50px;
     border-radius: 50%;
