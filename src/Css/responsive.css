@@ -3,7 +3,7 @@
       padding: 1.2rem;
    }
 
-    .info {
+   .info {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -20,23 +20,23 @@
       margin: 2rem 0 4rem;
    }
 
- 
    .attribution {
       margin: 2rem 0;
    }
 }
 
 @media (max-width:1200px) {
-     .main-content {
+   .main-content {
       flex-direction: column;
    }
 
-     .footer {
+   .footer {
       flex-direction: column;
    }
+
    .social-networks a:nth-child(2) {
       margin: 2rem;
-  }
+   }
 }
 
 @media (max-width:420px) {
@@ -49,9 +49,8 @@
    .info .title {
       font-size: 1.5rem;
    }
+
    .attribution {
       font-size: 1rem;
    }
-
- 
 }

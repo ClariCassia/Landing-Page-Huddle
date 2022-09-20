@@ -5,7 +5,7 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3rem;
-    background: var(--primary-medium-color) url(../images/bg-desktop.svg) no-repeat;   
+    background: var(--primary-medium-color) url(../images/bg-desktop.svg) no-repeat;
     background-size: cover;
 }
 
@@ -63,18 +63,19 @@ main {
     color: var(--primary-light-color);
 }
 
-.footer{
+.footer {
     display: flex;
     flex-direction: row-reverse;
-    align-items: center;  
-    justify-content: space-around;  
+    align-items: center;
+    justify-content: space-around;
 }
-.social-networks{
+
+.social-networks {
     display: flex;
     align-items: center;
 }
 
-.social-networks a{
+.social-networks a {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,6 +94,7 @@ main {
 .social-networks a:nth-child(2) {
     margin: 4rem;
 }
+
 .social-networks a i:hover::after {
     border-color: var(--primary-soft-color);
 }
@@ -102,7 +104,7 @@ main {
     color: var(--primary-soft-color);
 }
 
-.attribution {    
+.attribution {
     text-align: center;
     color: var(--neutral-color);
 }
