@@ -34,6 +34,9 @@
      .footer {
       flex-direction: column;
    }
+   .social-networks a:nth-child(2) {
+      margin: 2rem;
+  }
 }
 
 @media (max-width:420px) {
@@ -49,4 +52,6 @@
    .attribution {
       font-size: 1rem;
    }
+
+ 
 }
