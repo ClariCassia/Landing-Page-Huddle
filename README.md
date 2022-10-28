@@ -11,7 +11,7 @@
 
 ## Sobre o projeto
 
- Esse desafio do Frontend Mentor consiste em uma landing page tanto para desktop e mobile construída como desafio final do mouulo de HTML/CSS avançado  do curso **Dev Quest**, realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior").
+ Esse desafio do Frontend Mentor consiste em construir um componente de cartão de visualização de 3 colunas fazendo com que layout fique ideal dependendo do tamanho da tela do dispositivo
 
 
  ## Layout web
@@ -32,7 +32,7 @@
 - CSS 
 
 ## O que eu aprendi
-Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquare e efeitos como hover (ao passar o mouse) e active (ao clicar). Aprendi a utilizar imagem de fundo de forma que a mesma fique responsiva e troque de imagem na tela mobile.
+Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquare e efeitos como active(ao clicar). Pude colocar em prática o Grid, sendo utilizado tambem para facilitar na parte de responsividade.
 
 
 ## Acesso a página
