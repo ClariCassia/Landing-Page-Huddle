@@ -11,8 +11,8 @@
 
 ## Sobre o projeto
 
- Esse desafio do Frontend Mentor consiste em construir um componente de cartão de visualização de 3 colunas fazendo com que layout fique ideal dependendo do tamanho da tela do dispositivo
-
+ Esse desafio do Frontend Mentor consiste em uma landing page tanto para desktop e mobile construída como desafio final do mouulo de HTML/CSS avançado  do curso **Dev Quest**, realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior").
+Este desafio é perfeito se você está apenas começando. A mudança entre os layouts será um bom teste se você for novo na criação de projetos responsivos.
 
  ## Layout web
 
@@ -32,12 +32,10 @@
 - CSS 
 
 ## O que eu aprendi
-Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquare e efeitos como active(ao clicar). Pude colocar em prática o Grid, sendo utilizado tambem para facilitar na parte de responsividade.
+Neste projeto, aprimorei os conhecimentos no uso de variáveis,flebox, mediaquare e efeitos como hover (ao passar o mouse) e active (ao clicar). Aprendi a utilizar imagem de fundo de forma que a mesma fique responsiva e troque de imagem na tela mobile.
 
 
 ## Acesso a página
 
 Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Landing-Page-Huddle/)
-
-
 
