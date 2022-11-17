@@ -11,7 +11,7 @@
 
 ## Sobre o projeto
 
- Esse desafio do Frontend Mentor consiste em uma landing page tanto para desktop e mobile construída como desafio final do mouulo de HTML/CSS avançado  do curso **Dev Quest**, realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior").
+Esse desafio do Frontend Mentor consiste em uma landing page tanto para desktop e mobile construída como desafio final do modulo de HTML/CSS avançado  do curso **Dev Quest**, realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior").
 Este desafio é perfeito se você está apenas começando. A mudança entre os layouts será um bom teste se você for novo na criação de projetos responsivos.
 
  ## Layout web
