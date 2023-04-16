@@ -1,19 +1,20 @@
 html {
     font-size: 62, 5%;
+    background-color: var(--primary-medium-color);
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3rem;
-    background: var(--primary-medium-color) url(../images/bg-desktop.svg) no-repeat;
+    background: url(../images/bg-desktop.svg) no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 
 main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    max-width: 1440px;
     height: 100vh;
     padding: 4rem;
     margin: 0 auto;
@@ -72,7 +73,7 @@ main {
 
 .social-networks {
     display: flex;
-    align-items: center;
+
 }
 
 .social-networks a {
@@ -80,36 +81,30 @@ main {
     justify-content: center;
     align-items: center;
     border: 1px solid var(--primary-light-color);
+    color: var(--primary-light-color);
     width: 50px;
     height: 50px;
     border-radius: 50%;
+    margin: 0 0.5rem;
+    transition: var(--transition-effect)
 }
 
-.social-networks a i {
-    font-size: 1.4rem;
-    color: var(--primary-light-color);
-    transition: var(--transition-effect);
-}
-
-.social-networks a:nth-child(2) {
-    margin: 4rem;
-}
-
-.social-networks a i:hover::after {
+.social-networks a:hover {
+    color: var(--primary-soft-color);
     border-color: var(--primary-soft-color);
 }
 
-.social-networks a i:hover,
-.attribution a:hover {
-    color: var(--primary-soft-color);
-}
-
 .attribution {
-    text-align: center;
     color: var(--neutral-color);
+
 }
 
 .attribution a {
     color: var(--neutral-color);
     transition: var(--transition-effect);
+}
+
+.attribution a:hover {
+    color: var(--primary-soft-color);
+    font-weight: bold;
 }
