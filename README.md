@@ -18,7 +18,6 @@ Este desafio é perfeito se você está apenas começando. A mudança entre os l
 
 <br>
 
-
    <img src="src/gifs.readme/gif -desktop.gif" alt="gif tela desktop">
    <br>
 
@@ -39,8 +38,6 @@ Este desafio é perfeito se você está apenas começando. A mudança entre os l
    <br>
    
   
-<br>
-
 ## Tecnologias utilizadas
 
 - HTML 
