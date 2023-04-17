@@ -14,17 +14,32 @@
 Esse desafio do Frontend Mentor consiste em uma landing page tanto para desktop e mobile construída como desafio final do modulo de HTML/CSS avançado  do curso **Dev Quest**, realizado pelo   [Dev-em-Dobro](https://www.youtube.com/c/DevemDobro "Site da DevSuperior").
 Este desafio é perfeito se você está apenas começando. A mudança entre os layouts será um bom teste se você for novo na criação de projetos responsivos.
 
- ## Layout web
+ ## Layout desktop
 
 <br>
 
-  <img src="./src/gifs.readme/desktop-preview.gif" alt= "gif tela desktop">
 
-## Layout mobile
+   <img src="src/gifs.readme/gif -desktop.gif" alt="gif tela desktop">
+   <br>
+
+## Layout tablet
 
 <br>
 
-  <img src="./src/gifs.readme/desktop-mobile.gif" alt= "gif tela mobile">
+ <img src="src/gifs.readme/gif-tablet.gif" alt="gif tela tablet">
+ 
+   <br>
+
+   ## Layout mobile
+
+<br>
+
+
+   <img src="src/gifs.readme/gif-mobile.gif" alt="gif tela mobile">
+   <br>
+   
+  
+<br>
 
 ## Tecnologias utilizadas
 
